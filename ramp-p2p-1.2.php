@@ -2,9 +2,9 @@
 /*
 Plugin Name: RAMP Posts to Posts Data Sync
 Description: Allows RAMP to sync data from the plugin Posts to Posts
-Author: OpenDNS, Crowd Favorite
+Author: OpenDNS
 Version: 1.2
-Author URI: http://www.opendns.com, http://www.crowdfavorite.com
+Author URI: http://www.opendns.com
 */
 
 /**
