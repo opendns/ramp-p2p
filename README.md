@@ -6,3 +6,5 @@ This plugin was developed in-house and extended by Crowd Favorite to allow the d
 It's very rough, built on Crowd Favorite's default template for making RAMP plugins, and the interface is rather primitive to work with, especially if you have large numbers of connections to transmit. 
 
 The plugin supports selecting which connections are to be sent, returns errors if connections are selected without the connected posts being selected for transmission, and allows for deletion of connections on the remote WP instance if the connection is deleted on the source WP instance.
+
+We have made this plugin available as OSS so that others might fork the code and improve it. Please feel free to do so, as pull requests will be cheerfully ignored. :-)
